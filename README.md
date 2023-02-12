@@ -2,8 +2,6 @@
 
 **Hello, I am Rakhmatullo Shermatov, a backend developer**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently study on Ferghana State University (Uzbeksitan)
 - 🌱 I’m currently learning python, aiogram, django-rest-framework
 - 🤔 I’m looking for help with English
