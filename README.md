@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Raxmatillo/Raxmatillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: milodcomposer@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I don't know math
--->
+- ... to be continued
