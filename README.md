@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hello, I am Rakhmatullo Shermatov, a backend developer**
+**Hello, I am Rakhmatullo Shermatov**
 
 - 🔭 I’m from Uzbeksitan
 - 🌱 I’m currently learning python, data analysis, machine learning
